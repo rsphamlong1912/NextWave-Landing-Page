@@ -372,6 +372,10 @@ header .container {
     bottom: -180px;
     left: -150px;
   }
+
+  .right img.image2 {
+    display: none;
+  }
 }
 
 @media screen and (max-width: 470px) {
@@ -402,6 +406,10 @@ header .container {
   height: 520px;
   width: 260px;
   margin-right: 5px;
+}
+
+.right img.image1 {
+  margin-right: 20px;
 }
 
 .flex {
