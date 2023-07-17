@@ -376,6 +376,10 @@ header .container {
   .right img.image2 {
     display: none;
   }
+
+  div.btn-download {
+    margin-left: 5px;
+  }
 }
 
 @media screen and (max-width: 470px) {
